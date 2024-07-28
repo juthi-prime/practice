@@ -1,0 +1,22 @@
+.four{
+    display: flex;
+    margin: 30px;
+}
+.sun{
+    display: flex;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 40px;
+    gap: 40px;
+    margin-top: 10px;
+
+
+}
+.nice{
+    display: flex;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 40px;
+    gap: 40px;
+    margin-top: 40px;
+}

@@ -1,0 +1,44 @@
+.one{
+    display: flex;
+    margin: 50px;
+}
+.two{
+    margin-right: 20px;
+    background-color: aliceblue;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.three{
+    margin-right: 20px;
+    background-color: azure;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.four{
+    display: flex;
+    margin: 50px;
+    margin-right: 20px;
+
+}
+.five{
+    margin-right: 20px;
+    background-color: aliceblue;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.six{
+    margin-right: 20px;
+    background-color: aliceblue;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px; 
+}
+.seven{
+    text-align: center;
+    border: 2px solid black;
+    margin: 40px;
+}
+

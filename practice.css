@@ -1,0 +1,37 @@
+.display{
+    text-align: flex;
+    gap: 10px;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.display{
+    text-align: flex;
+    gap: 10px;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+
+}
+.one{
+    display: flex;
+    margin: 50px;
+}
+.two{
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.three{
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}

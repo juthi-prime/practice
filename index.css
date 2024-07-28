@@ -1,0 +1,101 @@
+.body{
+    background-color: rgb(113, 150, 150);
+    background-attachment:auto;
+    margin: 5px;
+}
+#form{
+    width: 500px;
+    height: 500px;
+    margin: 20vh;
+    background-color: #d4d47f;
+    border-radius: 10px;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    color: rgb(28, 80, 223);
+}
+
+    
+    
+
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.three{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.four{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.five{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.six{
+    margin: 20px;
+    margin-bottom: 10px;
+
+}
+.btn-submit{
+    background-color: rgb(13, 15, 15);
+    color: #fd8f09;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 1opx ;
+    cursor: pointer;
+
+}
+.btn-submit:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.btn-reset{
+    background-color: rgb(13, 15, 15);
+    color: rgb(27, 102, 241);
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 1opx ;
+    cursor: pointer;
+}
+.btn-reset:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.btn-button{
+    background-color: rgb(231, 34, 8);
+    color: bisque;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 1opx ;
+    cursor: pointer;
+}
+.btn-button:hover{
+    background-color: rgb(15, 15, 14);
+    cursor: pointer;
+}
+}
+
+
